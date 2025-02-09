@@ -1,0 +1,14 @@
+{
+  "name": "live001-JWT",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.13.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  },
+  "scripts": {
+    "dev": "tsx watch src/index.ts"
+  }
+}
